@@ -1231,7 +1231,7 @@
 					<dependency>
 						<groupId>org.mockito</groupId>
 						<artifactId>mockito-core</artifactId>
-						<version>5.21.0</version>
+						<version>5.24.0</version>
 					</dependency>
 					<dependency>
 						<groupId>net.bytebuddy</groupId>
@@ -1257,7 +1257,7 @@
 					<dependency>
 						<groupId>org.mockito</groupId>
 						<artifactId>mockito-core</artifactId>
-						<version>5.21.0</version>
+						<version>5.24.0</version>
 					</dependency>
 					<dependency>
 						<groupId>net.bytebuddy</groupId>
@@ -1283,7 +1283,7 @@
 					<dependency>
 						<groupId>org.mockito</groupId>
 						<artifactId>mockito-core</artifactId>
-						<version>5.21.0</version>
+						<version>5.24.0</version>
 					</dependency>
 					<dependency>
 						<groupId>net.bytebuddy</groupId>
@@ -1380,7 +1380,7 @@
 		<aspectjVersion>1.9.25.1</aspectjVersion>
 		<jacksonVersion>2.19.2</jacksonVersion>
 		<junitVersion>5.11.4</junitVersion>
-		<mockitoVersion>5.21.0</mockitoVersion>
+		<mockitoVersion>5.24.0</mockitoVersion>
 		<hamcrestVersion>3.0</hamcrestVersion>
 
 		<slf4jVersion>1.7.36</slf4jVersion>
